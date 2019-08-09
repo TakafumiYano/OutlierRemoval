@@ -1,0 +1,1 @@
+sh TrackFilterMahalabinos.sh 100206_5M_SIFT_aal_2-45.tck
